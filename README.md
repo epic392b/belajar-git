@@ -13,3 +13,5 @@ command command github step by step:
 11. git add [file] #untuk massukan file ke staging area atau tempat persiapan untuk perubahan 
 12. git push #buat simpan perubahan di github online
 13. git pull #untuk mengambil perubahan dari github
+
+semoga bisa diingat ingat ini beh,se
